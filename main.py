@@ -5,9 +5,10 @@ def multiply(num1, num2):
     result = num1 * num2
     print("The result is : ", result") 
 
-def modulo(num1, num2):
-    result = num1 % num2
-    print("The result is: ", result)
+def deivide(num1, num2):
+    result = num1 / num2
+    print -("The result is: ", result)
+
 
 
 
